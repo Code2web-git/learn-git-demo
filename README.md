@@ -1,3 +1,3 @@
 # learn-git-demo
 For learning
-learn commit
+we add commit change
